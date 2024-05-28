@@ -3,7 +3,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Canal Atom de Raul Calleja</title>
     <id>http://www.misitioweb.es</id>
-    <link href="enlace-a-tu-feed.xml" rel="self"/>
+    <link href="https://raulcalleja.github.io/practicaAtom.github.io/Atom_RCP.xml" rel="self"/>
     <updated>2024-05-28T12:00:00Z</updated>
 
     <author>
